@@ -1,0 +1,7 @@
+{
+  "category.cobblesort.controls": "CobbleSort",
+  "key.cobblesort.sort": "Ordenar inventario/contenedor",
+  "message.cobblesort.sorted": "Inventario ordenado",
+  "message.cobblesort.busy": "CobbleSort todavía está ordenando",
+  "message.cobblesort.unsupported": "Este contenedor no se puede ordenar"
+}

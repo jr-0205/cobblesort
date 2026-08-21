@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+tmp/
+wrapper/dists/
+
+# Fabric / runtime
+run/
+logs/
+crash-reports/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JVM
+*.class
+hs_err_pid*
+replay_pid*
